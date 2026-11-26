@@ -57,7 +57,7 @@
 To get started with Forge, run the command below:
 
 ```bash
-curl -fsSL https://forgecode.dev/cli | sh
+cargo install --git https://github.com/lee-b/forgecode/
 ```
 
 On first run, Forge will guide you through setting up your AI provider credentials using the interactive login flow. Alternatively, you can configure providers beforehand:
